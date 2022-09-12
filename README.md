@@ -10,17 +10,3 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Vue.js 3 | Vite.js | Pinia | PostgreSQL | Primevue |
 
-------------
-
-### Teknolojileri Nerede Kullandık
-- Visual Studio 2022 üzerinde .net core 6 ve graphql kullanarak web uygulamasının backend'ini inşaa ettik.
-- GraphQL kütüphanesi olan Hot Chocolate'tan yararlandık.
-- Farklı bilgisayarlarda uygulamayı çalıştırırken sıkıntı yaşamamak adına veritabanımızı ve api'ımızı docker üzerinden ayağa kaldırdık. (Docker compose)
-- Uygulamanın frontend kısmında vue js versiyon 3
-## Proje Hakkında
-
-#### Soltree, kullanıcıya kullandığı elektronik cihazda yaşadığı soruna karşılık çözüm önerileri sunan bir web uygulamasıdır.
-- 
-- 
-- 
-- 
